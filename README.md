@@ -1,6 +1,6 @@
 # MiniGames-Console
 
-Welcome to **MiniGames-Console**! This project is a collection of simple, text-based games that can be enjoyed directly in your terminal or console. Whether you're looking to pass some time with classic games or explore basic programming concepts, **MiniGames-Console** has something for everyone.
+Welcome to **MiniGames-Console** This project is a collection of simple, text-based games that can be enjoyed directly in your terminal or console.
 
 ## What's Inside?
 Explore a variety of mini-games that are both fun and easy to play. Perfect for quick gaming sessions or for those interested in learning more about console-based game development.
